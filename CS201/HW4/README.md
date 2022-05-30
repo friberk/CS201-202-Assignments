@@ -66,7 +66,7 @@ int main() {
 
 Notes:
 
-- This assignment is due by 23:59 on Monday, January 3, 2022. It will be graded by your TA Hakan Turkmenoglu (h.turkmenoglu@bilkent.edu.tr), you may ask your homework related questions to him.
+- This assignment is due by 23:59 on Monday, January 3, 2022. It will be graded by your TA \*\*\*\*\* \*\*\*\*\*\*\*\*\*\*\* (\*.\*\*\*\*\*\*\*\*\*\*\*@bilkent.edu.tr), you may ask your homework related questions to him.
 - In this assignment, you must have separate interface and implementation files (i.e., separate .h and .cpp files). We will test your implementation by writing our own driver .cpp file which will include your header files. For this reason, your file names MUST BE Stack.h, Stack.cpp, AlgebraicExpression.h and AlgebraicExpression.cpp.
 - You should put these files into a folder and zip the folder. The name of this zip file should conform to the following name convention: secX-Firstname-Lastname-StudentID.zip where X is your section number.
 

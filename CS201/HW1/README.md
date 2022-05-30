@@ -64,13 +64,13 @@ public:
     LabOrganizer();
     ~LabOrganizer();
 
-    voidaddCabinet(int id, int rows, int columns);
-    voidremoveCabinet(int id);
-    voidlistCabinets();
-    voidcabinetContents(int id);
-    voidplaceChemical(int cabinetId, string location, string chemType,int chemID);
-    voidfindChemical(int id);
-    voidremoveChemical(int id);
+    void addCabinet(int id, int rows, int columns);
+    void removeCabinet(int id);
+    void listCabinets();
+    void cabinetContents(int id);
+    void placeChemical(int cabinetId, string location, string chemType,int chemID);
+    void findChemical(int id);
+    void removeChemical(int id);
     // ...
     //you may define additional member functions and data members, if necessary
 }
